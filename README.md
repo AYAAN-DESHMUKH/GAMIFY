@@ -20,7 +20,7 @@ Gamify is an Android application built using Android Studio that provides compre
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AYAAN-DESHMUKH/GAMIFY.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync the project with Gradle files.
